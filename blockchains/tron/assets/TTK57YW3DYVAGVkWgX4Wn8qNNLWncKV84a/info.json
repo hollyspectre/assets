@@ -1,28 +1,25 @@
 {
-    "name": "Tether USD",
+    "name": "Community USDT",
     "type": "TRC20",
     "symbol": "USDT",
     "decimals": 6,
-    "description": "Tether USD (USDT) is a stablecoin pegged to the US Dollar, issued on the TRON network. It provides a stable store of value and medium of exchange for the TRON ecosystem.",
-    "website": "https://tether.to",
-    "explorer": "https://tronscan.org/#/token20/TTK57YW3DYVAGVkWgX4Wn8qNNLWncKV84a",
+    "description": "Community-wrapped Tether USD on TRON. This token provides a community-governed wrapper around USDT liquidity pools on SunSwap V2, enabling decentralized access to dollar-pegged value without centralized control.",
+    "website": "https://tetherdapp.manus.space",
+    "explorer": "https://tronscan.io/#/token20/TTK57YW3DYVAGVkWgX4Wn8qNNLWncKV84a",
     "status": "active",
     "id": "TTK57YW3DYVAGVkWgX4Wn8qNNLWncKV84a",
     "links": [
         {
             "name": "twitter",
-            "url": "https://twitter.com/Tether_to"
+            "url": "https://x.com/CommunityUSDT"
         },
         {
             "name": "telegram",
-            "url": "https://t.me/tether_official"
-        },
-        {
-            "name": "coingecko",
-            "url": "https://www.coingecko.com/en/coins/tether"
+            "url": "https://t.me/CommunityUSDT"
         }
     ],
     "tags": [
-        "stablecoin"
+        "stablecoin",
+        "wrapped"
     ]
 }
