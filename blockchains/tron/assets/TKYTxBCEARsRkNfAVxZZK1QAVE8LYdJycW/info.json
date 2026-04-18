@@ -1,0 +1,28 @@
+{
+    "name": "Virgo Stable Dollar",
+    "website": "https://tetherdapp.manus.space",
+    "description": "Virgo Stable Dollar (VSD) is a TRC-20 community stablecoin on the TRON Network, maintaining a 1:1 peg with the US Dollar. It leverages TRON high throughput and low transaction costs for efficient cross-border payments, trading, and DeFi applications.",
+    "explorer": "https://tronscan.io/#/token20/TKYTxBCEARsRkNfAVxZZK1QAVE8LYdJycW",
+    "type": "TRC20",
+    "symbol": "VSD",
+    "decimals": 6,
+    "status": "active",
+    "id": "TKYTxBCEARsRkNfAVxZZK1QAVE8LYdJycW",
+    "tags": [
+        "stablecoin"
+    ],
+    "links": [
+        {
+            "name": "whitepaper",
+            "url": "https://files.manuscdn.com/user_upload_by_module/session_file/310519663095917756/IDqQdhRsLGOobnpS.pdf"
+        },
+        {
+            "name": "twitter",
+            "url": "https://x.com/CommunityUSDT"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/VSD_OfficialChannel"
+        }
+    ]
+}
